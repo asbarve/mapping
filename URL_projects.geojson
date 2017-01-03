@@ -20,7 +20,10 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Kalinganagar Resilient Housing Initiative</strong><p>Kalinganagar in Jajpur district of Odisha,India is set to be the steel hub of India, with a projected population upwards of half a million within next ten years. The rapid urbanization will bring new growth opportunities as well as a unique set of challenges. There will be a pressing need for affordable housing stock for low-income labor and the informal sector. This challenge calls for new models of affordable housing and social infrastructure that are inclusive and resilient. <a href="http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative">Go to proejct</a></p>",
+        "description": "<strong>Kalinganagar Resilient Housing Initiative</strong>
+          <p>Kalinganagar in Jajpur district of Odisha, India is set to be the steel hub of India, with a projected population upwards of half a million within next ten years.
+          The rapid urbanization will bring new growth opportunities as well as a unique set of challenges. There will be a pressing need for affordable housing stock for low-income labor and the informal sector. This challenge calls for new models of affordable housing and social infrastructure that are inclusive and resilient.
+          <br><a href=\"http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative\" target=\"_blank\" title=\"self\">Go to project</a></p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9709402/prt_400x400_1429025397.JPG"
       },
       "geometry": {
