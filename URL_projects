@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>PrepHub Nepal</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.33905029296875,
+          27.71027871084622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Kalinganagar Resilient Housing Initiative</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.83892822265625,
+          20.99734274071184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Risk Ecologies - Haiti Evacuation System</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.2845458984375,
+          18.562947442888312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>PREPHub</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.09721779823302,
+          42.36212727072596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>SF Neighborhood Empowerment Network</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44747638702393,
+          37.7394309207699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Design Protocols for RAY Housing</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.667911529541,
+          23.250336477661907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Resilient Housing - India</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.134765625,
+          23.563987128451217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Resilient SF2080</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36778259277344,
+          37.72293542866175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Surabaya: Circum-Transit</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.74032592773438,
+          -7.259285791683904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Lima Safe Schools</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.05535888671874,
+          -12.050065023002462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>New York Commission Report</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9903450012207,
+          40.74374551975831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
+        "description": "<strong>Sanriku Project</strong><p></p>",
+        "image_url": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.44159317016602,
+          38.67907761983558
+        ]
+      }
+    }
+  ]
+}
