@@ -5,8 +5,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>PrepHub Nepal</strong><p></p>",
-        "image_url": ""
+        "description": "<strong>PrepHub Nepal</strong><p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. Our idea is to address disaster preparedness by supporting the role of the Pati as a public space anchor. By embedding technology into Patis the intention is to enhance their public service function, providing infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -37,7 +38,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Risk Ecologies - Haiti Evacuation System</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -52,7 +54,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>PREPHub</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -67,7 +70,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>SF Neighborhood Empowerment Network</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -82,7 +86,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Design Protocols for RAY Housing</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -97,7 +102,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Resilient Housing - India</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -112,7 +118,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Resilient SF2080</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -127,7 +134,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Surabaya: Circum-Transit</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -142,7 +150,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Lima Safe Schools</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -157,7 +166,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>New York Commission Report</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
@@ -172,7 +182,8 @@
       "properties": {
         "icon": "",
         "description": "<strong>Sanriku Project</strong><p></p>",
-        "image_url": ""
+        "image_url": "",
+        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
         "type": "Point",
