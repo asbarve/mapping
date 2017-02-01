@@ -149,7 +149,7 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>New York Commission Report</strong><p>NYS2100 Commission Report  is response to the recent, and unprecedented, severe weather events experienced by New York State and the surrounding region: most recently, Superstorm Sandy, Hurricane Irene, and Tropical Storm Lee. This report examines and evaluates key vulnerabilities in the State’s critical infrastructure systems, and  recommends actions that should be taken to strengthen and improve the resilience of those systems.</p>",
+        "description": "<strong>New York Commission Report</strong><p>In the wake of Superstorm Sandy, Hurricane Irene, and Tropical Storm Lee, this report examines and evaluates key vulnerabilities in the State’s critical infrastructure systems, and  recommends actions that should be taken to strengthen and improve the resilience of those systems.</p>",
         "image_url": "http://payload282.cargocollective.com/1/16/517066/7956675/prt_400x400_1401310563.jpg",
         "project_url": "http://www.urbanrisklab.org/New-York-Commission-Report"
       },
