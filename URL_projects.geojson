@@ -5,8 +5,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>PrepHub Nepal</strong><p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. Our idea is to address disaster preparedness by supporting the role of the Pati as a public space anchor. By embedding technology into Patis the intention is to enhance their public service function, providing infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
-        "image_url": "",
+        "description": "<strong>PrepHub Nepal</strong><p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. This project addresses disaster preparedness by supporting the role of the Pati as a public space anchor. By embedding technology into Patis the intention is to enhance their public service function, providing infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
+        "image_url": "http://payload370.cargocollective.com/1/16/517066/9708966/logo_o.jpg",
         "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
       },
       "geometry": {
@@ -37,9 +37,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Risk Ecologies - Haiti Evacuation System</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Risk Ecologies - Haiti Evacuation System</strong><p>this proejct takes on a comparative, qualitative, and spatial approach to the research in order to reveal and extract quantitative, geographic, urban, and social measures of current evacuation practices that tightly weave urban and ecological conditions with risk-related strategies.</p>",
+        "image_url": "http://payload281.cargocollective.com/1/16/517066/7928265/logo.jpg",
+        "project_url": "http://www.urbanrisklab.org/Risk-Ecologies-Haiti-Evacuation-System"
       },
       "geometry": {
         "type": "Point",
