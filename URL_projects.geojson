@@ -85,9 +85,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Resilient Housing - India</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Resilient Housing - India</strong><p>This collaborative research workshop focuses on the development of low-cost affordable housing alternatives in India through in-depth analysis of incremental housing precedents, quantitative assessment of environmental and economic costs, and consideration of resilience to natural hazards.</p>",
+        "image_url": "http://payload280.cargocollective.com/1/16/517066/7907549/prt_400x400_1401310703.jpg",
+        "project_url": "http://www.urbanrisklab.org/Resilient-Housing-India"
       },
       "geometry": {
         "type": "Point",
