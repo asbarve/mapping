@@ -69,9 +69,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Design Protocols for RAY Housing</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Design Protocols for RAY Housing</strong><p>This project aimes to reform the community led design process of the RAY housing be structured in such a way that it saves time while still allowing for the local specificity necessary to transform slums into neighborhoods fully integrated into the life of the city</p>",
+        "image_url": "http://payload370.cargocollective.com/1/16/517066/9709021/prt_400x400_1429025330.JPG",
+        "project_url": "http://www.urbanrisklab.org/Design-Protocols-for-RAY-Housing"
       },
       "geometry": {
         "type": "Point",
@@ -117,9 +117,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Surabaya: Circum-Transit</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Surabaya: Circum-Transit</strong><p>Surabaya, the second largest city in Indonesia is rapidly modernizing its public transport system with a tram network, a monorail line and intermodal stations. The city plans to prioritize investment and densify those corridors. Given the opportunity to strategically propose development along these new transportation lines, it is the ideal moment to build community resilience into the process. This studio examins the oportunity for reclaiming public life with the dual purpose for flood and earthquake resilience.</p>",
+        "image_url": "http://payload284.cargocollective.com/1/16/517066/7985362/prt_400x400_1414207862.jpg",
+        "project_url": "http://www.urbanrisklab.org/Surabaya-Circum-Transit"
       },
       "geometry": {
         "type": "Point",
@@ -149,9 +149,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>New York Commission Report</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>New York Commission Report</strong><p>NYS2100 Commission Report  is response to the recent, and unprecedented, severe weather events experienced by New York State and the surrounding region: most recently, Superstorm Sandy, Hurricane Irene, and Tropical Storm Lee. This report examines and evaluates key vulnerabilities in the State’s critical infrastructure systems, and  recommends actions that should be taken to strengthen and improve the resilience of those systems.</p>",
+        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956675/prt_400x400_1401310563.jpg",
+        "project_url": "http://www.urbanrisklab.org/New-York-Commission-Report"
       },
       "geometry": {
         "type": "Point",
