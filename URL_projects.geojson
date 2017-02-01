@@ -101,9 +101,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Resilient SF2080</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Resilient SF2080</strong><p>As a dense urban network fraught with risk – with vulnerable populations facing possible seismic events, floods, fires and extreme heat - San Francisco has put into play several policy initiatives to build in resilience. Aligning with the San Francisco Planning + Urban Research Association (SPUR) this studio explored those policies through design. with a focus on the marginalized area of Hunters Point. </p>",
+        "image_url": "http://payload281.cargocollective.com/1/16/517066/7928266/logo.jpg",
+        "project_url": "http://www.urbanrisklab.org/Resilient-SF2080"
       },
       "geometry": {
         "type": "Point",
