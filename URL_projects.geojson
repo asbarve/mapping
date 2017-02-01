@@ -7,7 +7,7 @@
         "icon": "",
         "description": "<strong>PrepHub Nepal</strong><p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. This project addresses disaster preparedness by supporting the role of the Pati as a public space anchor. By embedding technology into Patis the intention is to enhance their public service function, providing infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9708966/logo_o.jpg",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "project_url": "http://www.urbanrisklab.org/PrepHub-Nepal"
       },
       "geometry": {
         "type": "Point",
@@ -53,9 +53,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>PREPHub</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>PREPHub</strong><p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
+        "image_url": "http://payload368.cargocollective.com/1/16/517066/9671172/logo2.jpg",
+        "project_url": "http://www.prephub.org"
       },
       "geometry": {
         "type": "Point",
@@ -69,9 +69,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>SF Neighborhood Empowerment Network</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong> Resilient SF2080</strong><p>This studio investigated the role of urban design in building a resilient city. As a dense urban network fraught with risk – with vulnerable populations facing possible seismic events, floods, fires and extreme heat - San Francisco has put into play several policy initiatives to build in resilience. Aligning with the San Francisco Planning + Urban Research Association (SPUR) this studio explored those plans through the design of the marginalized area of Hunters Point.</p>",
+        "image_url": "http://payload281.cargocollective.com/1/16/517066/7928266/logo.jpg",
+        "project_url": "http://www.urbanrisklab.org/Resilient-SF2080"
       },
       "geometry": {
         "type": "Point",
