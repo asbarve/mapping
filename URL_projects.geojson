@@ -133,9 +133,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Lima Safe Schools</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Lima Safe Schools</strong><p>This project involved providing technical assistance and architectural guidelines for seismic retrofit and redesign of existing schools in Lima, Peru. The project aims create a better climate for learning and risk mitigation by achieving a link between the existing school and its immediate neighborhood.</p>",
+        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956687/prt_400x400_1414221062.jpg",
+        "project_url": "http://www.urbanrisklab.org/Lima-Safe-Schools"
       },
       "geometry": {
         "type": "Point",
