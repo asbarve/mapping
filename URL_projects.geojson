@@ -165,9 +165,9 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Sanriku Project</strong><p></p>",
-        "image_url": "",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "description": "<strong>Sanriku Project</strong><p>This project involves series of design and planning workshops, conducted over the span of three years with individuals representing various local community groups impacted by the 2011 Tohoku earthquake and tsunami</p>",
+        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956685/prt_400x400_1401394325.jpg",
+        "project_url": "http://www.urbanrisklab.org/filter/Sanriku-Project"
       },
       "geometry": {
         "type": "Point",
