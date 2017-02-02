@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>PrepHub Nepal</strong><p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. It provides infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
+        "title":"<strong>PrepHub Nepal</strong>",
+        "description": "<p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. It provides infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9708966/logo_o.jpg",
         "project_url": "http://www.urbanrisklab.org/PrepHub-Nepal"
       },
@@ -21,6 +22,7 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Kalinganagar Resilient Housing Initiative</strong>",
         "description": "<strong>Kalinganagar Resilient Housing Initiative</strong><p>Kalinganagar,India is set to be the steel hub of India,The rapid urbanization will pose the pressing need for affordable housing stock for low-income labor and the informal sector. This challenge calls for new models of affordable housing and social infrastructure that are inclusive and resilient.</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9709402/prt_400x400_1429025397.JPG",
         "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
@@ -37,7 +39,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Risk Ecologies - Haiti Evacuation System</strong><p>This proejct takes on a comparative, qualitative, and spatial approach to the research in order to reveal and extract quantitative, geographic, urban, and social measures of current evacuation practices that tightly weave urban and ecological conditions with risk-related strategies.</p>",
+        "title":"<strong>Risk Ecologies - Haiti Evacuation System</strong>",
+        "description": "<p>This proejct takes on a comparative, qualitative, and spatial approach to the research in order to reveal and extract quantitative, geographic, urban, and social measures of current evacuation practices that tightly weave urban and ecological conditions with risk-related strategies.</p>",
         "image_url": "http://payload281.cargocollective.com/1/16/517066/7928265/logo.jpg",
         "project_url": "http://www.urbanrisklab.org/Risk-Ecologies-Haiti-Evacuation-System"
       },
@@ -53,7 +56,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>PREPHub</strong><p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
+        "title":"<strong>PREPHub</strong>",
+        "description": "<p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
         "image_url": "http://payload368.cargocollective.com/1/16/517066/9671172/logo2.jpg",
         "project_url": "http://www.prephub.org"
       },
@@ -69,7 +73,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Design Protocols for RAY Housing</strong><p>This project aimes to reform the community led design process of the RAY housing be structured in such a way that it saves time while still allowing for the local specificity necessary to transform slums into neighborhoods fully integrated into the life of the city</p>",
+        "title":"<strong>Design Protocols for RAY Housing</strong>",
+        "description": "<p>This project aimes to reform the community led design process of the RAY housing be structured in such a way that it saves time while still allowing for the local specificity necessary to transform slums into neighborhoods fully integrated into the life of the city</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9709021/prt_400x400_1429025330.JPG",
         "project_url": "http://www.urbanrisklab.org/Design-Protocols-for-RAY-Housing"
       },
@@ -85,7 +90,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Resilient Housing - India</strong><p>This collaborative research workshop focuses on the development of low-cost affordable housing alternatives in India through in-depth analysis of incremental housing precedents, quantitative assessment of environmental and economic costs, and consideration of resilience to natural hazards.</p>",
+        "title":"<strong>Resilient Housing - India</strong>",
+        "description": "<p>This collaborative research workshop focuses on the development of low-cost affordable housing alternatives in India through in-depth analysis of incremental housing precedents, quantitative assessment of environmental and economic costs, and consideration of resilience to natural hazards.</p>",
         "image_url": "http://payload280.cargocollective.com/1/16/517066/7907549/prt_400x400_1401310703.jpg",
         "project_url": "http://www.urbanrisklab.org/Resilient-Housing-India"
       },
@@ -101,7 +107,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Resilient SF2080</strong><p>As a dense urban network fraught with risk – with vulnerable populations facing possible seismic events, floods, fires and extreme heat - San Francisco has put into play several policy initiatives to build in resilience. Aligning with the San Francisco Planning + Urban Research Association (SPUR) this studio explored those policies through design. with a focus on the marginalized area of Hunters Point. </p>",
+        "title":"<strong>Resilient SF2080</strong>",
+        "description": "<p>As a dense urban network fraught with risk – with vulnerable populations facing possible seismic events, floods, fires and extreme heat - San Francisco has put into play several policy initiatives to build in resilience. Aligning with the San Francisco Planning + Urban Research Association (SPUR) this studio explored those policies through design. with a focus on the marginalized area of Hunters Point. </p>",
         "image_url": "http://payload281.cargocollective.com/1/16/517066/7928266/logo.jpg",
         "project_url": "http://www.urbanrisklab.org/Resilient-SF2080"
       },
@@ -117,7 +124,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Surabaya: Circum-Transit</strong><p>This Studio explores the rapidly modernizing transport infrastructure of Surabaya to stratergically propose development that reclaims the public life with dual purpose of flood and earthquake resilience</p>",
+        "title":"<strong>Surabaya: Circum-Transit</strong>",
+        "description": "<p>This Studio explores the rapidly modernizing transport infrastructure of Surabaya to stratergically propose development that reclaims the public life with dual purpose of flood and earthquake resilience</p>",
         "image_url": "http://payload284.cargocollective.com/1/16/517066/7985362/prt_400x400_1414207862.jpg",
         "project_url": "http://www.urbanrisklab.org/Surabaya-Circum-Transit"
       },
@@ -133,7 +141,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Lima Safe Schools</strong><p>This project involved providing technical assistance and architectural guidelines for seismic retrofit and redesign of existing schools in Lima, Peru. The project aims create a better climate for learning and risk mitigation by achieving a link between the existing school and its immediate neighborhood.</p>",
+        "title":"<strong>Lima Safe Schools</strong>",
+        "description": "<p>This project involved providing technical assistance and architectural guidelines for seismic retrofit and redesign of existing schools in Lima, Peru. The project aims create a better climate for learning and risk mitigation by achieving a link between the existing school and its immediate neighborhood.</p>",
         "image_url": "http://payload282.cargocollective.com/1/16/517066/7956687/prt_400x400_1414221062.jpg",
         "project_url": "http://www.urbanrisklab.org/Lima-Safe-Schools"
       },
@@ -149,7 +158,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>New York Commission Report</strong><p>In the wake of Superstorm Sandy, Hurricane Irene, and Tropical Storm Lee, this report examines and evaluates key vulnerabilities in the State’s critical infrastructure systems, and  recommends actions that should be taken to strengthen and improve the resilience of those systems.</p>",
+        "title":"<strong>New York Commission Report</strong>",
+        "description": "<p>In the wake of Superstorm Sandy, Hurricane Irene, and Tropical Storm Lee, this report examines and evaluates key vulnerabilities in the State’s critical infrastructure systems, and  recommends actions that should be taken to strengthen and improve the resilience of those systems.</p>",
         "image_url": "http://payload282.cargocollective.com/1/16/517066/7956675/prt_400x400_1401310563.jpg",
         "project_url": "http://www.urbanrisklab.org/New-York-Commission-Report"
       },
@@ -165,7 +175,8 @@
       "type": "Feature",
       "properties": {
         "icon": "",
-        "description": "<strong>Sanriku Project</strong><p>This project involves series of design and planning workshops, conducted over the span of three years with individuals representing various local community groups impacted by the 2011 Tohoku earthquake and tsunami</p>",
+        "title":"<strong>Sanriku Project</strong>",
+        "description": "<p>This project involves series of design and planning workshops, conducted over the span of three years with individuals representing various local community groups impacted by the 2011 Tohoku earthquake and tsunami</p>",
         "image_url": "http://payload282.cargocollective.com/1/16/517066/7956685/prt_400x400_1401394325.jpg",
         "project_url": "http://www.urbanrisklab.org/filter/Sanriku-Project"
       },
