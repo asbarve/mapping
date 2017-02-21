@@ -175,6 +175,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>PetaBencana.id</strong>",
+        "description": "<p>PetaBencana.id harnesses the power of social media to gather, sort, and display information about flooding in real time.</p>",
+        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956675/prt_400x400_1401310563.jpg",
+        "project_url": "http://www.petabencana.id/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.822703,
+          6.174574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Sanriku Project</strong>",
         "description": "<p>This project involves series of design and planning workshops, conducted over the span of three years with individuals representing various local community groups impacted by the 2011 Tohoku earthquake and tsunami</p>",
         "image_url": "http://payload282.cargocollective.com/1/16/517066/7956685/prt_400x400_1401394325.jpg",
