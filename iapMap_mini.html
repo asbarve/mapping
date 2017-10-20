@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>TATA Center IAP 2016</title>
+  <meta charset='utf-8' />
+  <title></title>
+  <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+  <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.js'></script>
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.28.0/mapbox-gl.css' rel='stylesheet' />
+  <style>
+  body{margin:0;padding:0}#map{position:absolute;top:0;bottom:0;width:100%}
+  .title{position:absolute;left:20px;bottom:20px;z-index:9999;font-size: 28px;font-family: Open Sans,Arial;}#legend{position:absolute;width:170px;height:150px;right:20px;bottom:50px;z-index:2;background-color:rgba(255,255,255,.7);padding:10px;border-radius:7px}
+  .menu-ui{background:#fff;font-family:Open Sans,arial;position:fixed;top:10px;left:10px;-index:9999;border-radius:5px;width:100px;border:1px solid rgba(0,0,0,.4)}
+  .menu-ui a{font-size:10px;color:#404040;display:block;margin:0;padding:0;padding:10px;text-decoration:none;border-bottom:1px solid rgba(0,0,0,.25);text-align:center}
+  .menu-ui a:first-child{border-radius:3px 3px 0 0}
+  .menu-ui a:last-child{border:none;border-radius:0 0 3px 3px}
+  .menu-ui a:hover{background:#DADADA;color:#404040;font-style:italic}
+  #control{background:#fff;position:absolute;z-index:1;top:10px;right:10px;border-radius:3px;width:100px;border:1px solid rgba(0,0,0,.4);font-family:'Open Sans',sans-serif}
+  #control a{font-size:13px;color:#404040;display:block;margin:0;padding:0;padding:10px;text-decoration:none;border-bottom:1px solid rgba(0,0,0,.25);text-align:center}
+  #control a:last-child{border:none}
+  #control a:hover{background-color:#f8f8f8;color:#404040}
+  #control a.active{background-color:#3887be;color:#fff}
+  #control a.active:hover{background:#3074a4}
+  </style>
+</head>
+<body>
+  <p class="title"> TATA Center IAP India Visits </p>
+  <nav id="control"></nav>
+  <div id='map'><div id="legend"><b>IAP Visit 2016</b><hr>
+    <span style='color:#749f13'>●</span> Week 1 (Jan 1 - 7) <br />
+    <span style='color:#e5610a'>●</span> Week 2 (Jan 8 - 14)<br />
+    <span style='color:#e29e08'>●</span> Week 3 (Jan 15 - 21) <br />
+    <span style='color:#31aade'>●</span> Week 4 (Jan 22 - 28) <br />
+    <span style='color:#000'>●</span> Week 5 (Jan 29 - Feb 4) <br />
+  </div></div>
+  <div id='nav'class='menu-ui'>
+    <a href="#" data-position='77.5946,12.9716'>Bengalure</a>
+    <a href="#" data-position='80.2707,13.0827'>Chennai</a>
+    <a href="#" data-position='77.1025,28.7041'>Delhi</a>
+    <a href="#" data-position='72.8777,19.0760'>Mumbai</a>
+    <a href="#" data-position='85.1376,25.5941'>Patna</a>
+    <a href="#" data-position='73.8567,18.5204'>Pune</a>
+  </div>
+  <script>
+  mapboxgl.accessToken='pk.eyJ1IjoiYXNiYXJ2ZSIsImEiOiI4c2ZpNzhVIn0.A1lSinnWsqr7oCUo0UMT7w';var map=new mapboxgl.Map({container:'map',style:'mapbox://styles/asbarve/ciu0anscx00ac2ipgyvuieuu9',center:[78,22],minZoom:4});document.getElementById('nav').onclick=function(e){e.preventDefault();var pos=e.target.getAttribute('data-position');if(pos){var loc=pos.split(',');map.flyTo({center:loc,zoom:10})}}
+  map.on('load',function(){map.addSource('week1',{type:'geojson',data:'https://raw.githubusercontent.com/asbarve/mapping/master/tataIapWeek1.geojson'});map.addLayer({'id':'week1','type':'circle','source':'week1','layout':{'visibility':'visible'},'paint':{'circle-color':'#749f13','circle-radius':5,},});map.addSource('week2',{type:'geojson',data:'https://raw.githubusercontent.com/asbarve/mapping/master/tataIapWeek2.geojson'});map.addLayer({'id':'week2','type':'circle','source':'week2','layout':{'visibility':'visible'},'paint':{'circle-color':'#e5610a','circle-radius':5,},});map.addSource('week3',{type:'geojson',data:'https://raw.githubusercontent.com/asbarve/mapping/master/tataIapWeek3.geojson'});map.addLayer({'id':'week3','type':'circle','source':'week3','layout':{'visibility':'visible'},'paint':{'circle-color':'#e29e08','circle-radius':5,},});map.addSource('week4',{type:'geojson',data:'https://raw.githubusercontent.com/asbarve/mapping/master/tataIapWeek4.geojson'});map.addLayer({'id':'week4','type':'circle','source':'week4','layout':{'visibility':'visible'},'paint':{'circle-color':'#31aade','circle-radius':5,},});map.addSource('week5',{type:'geojson',data:'https://raw.githubusercontent.com/asbarve/mapping/master/tataIapWeek5.geojson'});map.addLayer({'id':'week5','type':'circle','source':'week5','layout':{'visibility':'visible'},'paint':{'circle-color':'#000','circle-radius':5,},})});map.on('click',function(e){var features=map.queryRenderedFeatures(e.point,{layers:['week1','week2','week3','week4','week5']});if(!features.length){return}
+  var feature=features[0];var popup=new mapboxgl.Popup().setLngLat(map.unproject(e.point)).setHTML('<b>'+feature.properties.Name+'</b>').addTo(map)});map.on('mousemove',function(e){var feature=map.queryRenderedFeatures(e.point,{layers:['week1','week2','week3','week4','week5']});map.getCanvas().style.cursor=(feature.length)?'pointer':''});var toggleableLayerIds=['week1','week2','week3','week4','week5'];for(var i=0;i<toggleableLayerIds.length;i++){var id=toggleableLayerIds[i];var link=document.createElement('a');link.href='#';link.className='active';link.textContent=id;link.onclick=function(e){var clickedLayer=this.textContent;e.preventDefault();e.stopPropagation();var visibility=map.getLayoutProperty(clickedLayer,'visibility');if(visibility==='visible'){map.setLayoutProperty(clickedLayer,'visibility','none');this.className=''}else{this.className='active';map.setLayoutProperty(clickedLayer,'visibility','visible')}};var layers=document.getElementById('control');layers.appendChild(link)}
+  </script>
+</body>
+</html>
