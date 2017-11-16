@@ -209,6 +209,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Riskmap.us</strong>",
+        "description": "<p>Riskmap.US is a crowdsources flood reporting platform for Broward county Florida.</p>",
+        "image_url": "http://payload456.cargocollective.com/1/16/517066/11427158/cards_image.png",
+        "project_url": "http://www.riskmap.us/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3659,
+          26.1901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Sanriku Project</strong>",
         "description": "<p>This project involves series of design and planning workshops, conducted over the span of three years with individuals representing various local community groups impacted by the 2011 Tohoku earthquake and tsunami</p>",
         "image_url": "http://payload282.cargocollective.com/1/16/517066/7956685/prt_400x400_1401394325.jpg",
