@@ -73,6 +73,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>PREPHub</strong>",
+        "description": "<p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
+        "image_url": "http://payload368.cargocollective.com/1/16/517066/9671172/logo2.jpg",
+        "project_url": "http://www.prephub.org"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6587,
+          45.5122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Design Protocols for RAY Housing</strong>",
         "description": "<p>This project aimes to reform the community led design process of the RAY housing be structured in such a way that it saves time while still allowing for the local specificity necessary to transform slums into neighborhoods fully integrated into the life of the city</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9709021/prt_400x400_1429025330.JPG",
