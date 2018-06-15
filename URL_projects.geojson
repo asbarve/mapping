@@ -5,6 +5,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Alternatives for FEMA Disaster-Related Housing Assistance</strong>",
+        "description": "<p>This interdisciplinary research, supported by collaborative efforts from the various teams across MIT, explores how temporary housing can increase long-term resilience for individuals and communities by forming part of the permanent housing solution. </p>",
+        "image_url": "http://payload557.cargocollective.com/1/16/517066/13455851/prt_400x400_1523309131.jpg",
+        "project_url": "http://urbanrisklab.org/Alternatives-for-FEMA-Disaster-Related-Housing-Assistance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.1057,
+          18.4655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>PrepHub Nepal</strong>",
         "description": "<p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. It provides infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9708966/logo_o.jpg",
