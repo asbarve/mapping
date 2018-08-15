@@ -25,7 +25,7 @@
         "title":"<strong>PrepHub Nepal</strong>",
         "description": "<p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. It provides infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
         "image_url": "http://payload370.cargocollective.com/1/16/517066/9708966/logo_o.jpg",
-        "project_url": "http://www.urbanrisklab.org/PrepHub-Nepal"
+        "project_url": "./work/#/prephubnepal/"
       },
       "geometry": {
         "type": "Point",
