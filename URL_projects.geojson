@@ -7,8 +7,8 @@
         "icon": "",
         "title":"<strong>Alternatives for FEMA Disaster-Related Housing Assistance</strong>",
         "description": "<p>This interdisciplinary research, supported by collaborative efforts from the various teams across MIT, explores how temporary housing can increase long-term resilience for individuals and communities by forming part of the permanent housing solution. </p>",
-        "image_url": "http://payload557.cargocollective.com/1/16/517066/13455851/prt_400x400_1523309131.jpg",
-        "project_url": "http://urbanrisklab.org/Alternatives-for-FEMA-Disaster-Related-Housing-Assistance"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68be97aa4a99da3bc50b19/1533591193930/THUMB.jpg?format=300w",
+        "project_url": "./work/#/fema/"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +24,7 @@
         "icon": "",
         "title":"<strong>PrepHub Nepal</strong>",
         "description": "<p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. It provides infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
-        "image_url": "http://payload370.cargocollective.com/1/16/517066/9708966/logo_o.jpg",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b684a212b6a286b6257fbee/1533576934279/logo.jpg?format=300w",
         "project_url": "./work/#/prephubnepal/"
       },
       "geometry": {
@@ -41,8 +41,8 @@
         "icon": "",
         "title":"<strong>Kalinganagar Resilient Housing Initiative</strong>",
         "description": "<strong>Kalinganagar Resilient Housing Initiative</strong><p>Kalinganagar,India is set to be the steel hub of India,The rapid urbanization will pose the pressing need for affordable housing stock for low-income labor and the informal sector. This challenge calls for new models of affordable housing and social infrastructure that are inclusive and resilient.</p>",
-        "image_url": "http://payload370.cargocollective.com/1/16/517066/9709402/prt_400x400_1429025397.JPG",
-        "project_url": "http://www.urbanrisklab.org/Kalinganagar-Resilient-Housing-Initiative"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b72e7ba21c67c8273ccc61c/1534257084243/150302_LANDSAT-copy.jpg?format=300w",
+        "project_url": "./work/#/kn-housing/"
       },
       "geometry": {
         "type": "Point",
@@ -58,8 +58,8 @@
         "icon": "",
         "title":"<strong>Risk Ecologies - Haiti Evacuation System</strong>",
         "description": "<p>This proejct takes on a comparative, qualitative, and spatial approach to the research in order to reveal and extract quantitative, geographic, urban, and social measures of current evacuation practices that tightly weave urban and ecological conditions with risk-related strategies.</p>",
-        "image_url": "http://payload281.cargocollective.com/1/16/517066/7928265/logo.jpg",
-        "project_url": "http://www.urbanrisklab.org/Risk-Ecologies-Haiti-Evacuation-System"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b688836aa4a994c50d12c33/1533577272227/logo.jpg?format=300w",
+        "project_url": "./work/#/haiti"
       },
       "geometry": {
         "type": "Point",
@@ -92,7 +92,7 @@
         "icon": "",
         "title":"<strong>PREPHub</strong>",
         "description": "<p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
-        "image_url": "http://payload368.cargocollective.com/1/16/517066/9671172/logo2.jpg",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b69c0792b6a28ba336b9d93/1533657210679/prt_400x400_1506104199.jpg?format=300w",
         "project_url": "http://www.prephub.org"
       },
       "geometry": {
@@ -109,8 +109,8 @@
         "icon": "",
         "title":"<strong>Design Protocols for RAY Housing</strong>",
         "description": "<p>This project aimes to reform the community led design process of the RAY housing be structured in such a way that it saves time while still allowing for the local specificity necessary to transform slums into neighborhoods fully integrated into the life of the city</p>",
-        "image_url": "http://payload370.cargocollective.com/1/16/517066/9709021/prt_400x400_1429025330.JPG",
-        "project_url": "http://www.urbanrisklab.org/Design-Protocols-for-RAY-Housing"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b69bfd01ae6cf4028679157/1533657573318/thumb.JPG?format=300w",
+        "project_url": "./work/#/indiahousing/"
       },
       "geometry": {
         "type": "Point",
@@ -126,8 +126,8 @@
         "icon": "",
         "title":"<strong>Resilient Housing - India</strong>",
         "description": "<p>This collaborative research workshop focuses on the development of low-cost affordable housing alternatives in India through in-depth analysis of incremental housing precedents, quantitative assessment of environmental and economic costs, and consideration of resilience to natural hazards.</p>",
-        "image_url": "http://payload280.cargocollective.com/1/16/517066/7907549/prt_400x400_1401310703.jpg",
-        "project_url": "http://www.urbanrisklab.org/Resilient-Housing-India"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6b01518a922df70e4d4ee0/1533739739461/thumb.jpg?format=300w",
+        "project_url": "./work/#/indiahousingworkshop/"
       },
       "geometry": {
         "type": "Point",
@@ -143,8 +143,8 @@
         "icon": "",
         "title":"<strong>Resilient SF2080</strong>",
         "description": "<p>As a dense urban network fraught with risk – with vulnerable populations facing possible seismic events, floods, fires and extreme heat - San Francisco has put into play several policy initiatives to build in resilience. Aligning with the San Francisco Planning + Urban Research Association (SPUR) this studio explored those policies through design. with a focus on the marginalized area of Hunters Point. </p>",
-        "image_url": "http://payload281.cargocollective.com/1/16/517066/7928266/logo.jpg",
-        "project_url": "http://www.urbanrisklab.org/Resilient-SF2080"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6b030370a6add9dda1a6ed/1533740206964/thumb2.jpg?format=300w",
+        "project_url": "./work/#/resilient-sf2080/"
       },
       "geometry": {
         "type": "Point",
@@ -160,8 +160,8 @@
         "icon": "",
         "title":"<strong>Surabaya: Circum-Transit</strong>",
         "description": "<p>This Studio explores the rapidly modernizing transport infrastructure of Surabaya to stratergically propose development that reclaims the public life with dual purpose of flood and earthquake resilience</p>",
-        "image_url": "http://payload284.cargocollective.com/1/16/517066/7985362/prt_400x400_1414207862.jpg",
-        "project_url": "http://www.urbanrisklab.org/Surabaya-Circum-Transit"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6b04f4352f530261e0af63/1533740488196/prt_400x400_1414207862.jpg?format=300w",
+        "project_url": "./work/#/surabaya-circumtransit/"
       },
       "geometry": {
         "type": "Point",
@@ -177,8 +177,8 @@
         "icon": "",
         "title":"<strong>Lima Safe Schools</strong>",
         "description": "<p>This project involved providing technical assistance and architectural guidelines for seismic retrofit and redesign of existing schools in Lima, Peru. The project aims create a better climate for learning and risk mitigation by achieving a link between the existing school and its immediate neighborhood.</p>",
-        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956687/prt_400x400_1414221062.jpg",
-        "project_url": "http://www.urbanrisklab.org/Lima-Safe-Schools"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6b065d352f530261e0d7d2/1533740741170/prt_400x400_1414221062.jpg?format=300w",
+        "project_url": "./work/#/lima-safe-schools/"
       },
       "geometry": {
         "type": "Point",
@@ -194,8 +194,8 @@
         "icon": "",
         "title":"<strong>New York Commission Report</strong>",
         "description": "<p>In the wake of Superstorm Sandy, Hurricane Irene, and Tropical Storm Lee, this report examines and evaluates key vulnerabilities in the State’s critical infrastructure systems, and  recommends actions that should be taken to strengthen and improve the resilience of those systems.</p>",
-        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956675/prt_400x400_1401310563.jpg",
-        "project_url": "http://www.urbanrisklab.org/New-York-Commission-Report"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6b06fe6d2a732c0d537f5d/1533740895400/ny_coast_risks--thumb.jpg?format=300w",
+        "project_url": "./work/#/new-york-commission-report/"
       },
       "geometry": {
         "type": "Point",
@@ -211,8 +211,8 @@
         "icon": "",
         "title":"<strong>PetaBencana.id</strong>",
         "description": "<p>PetaBencana.id harnesses the power of social media to gather, sort, and display information about flooding in real time.</p>",
-        "image_url": "http://payload534.cargocollective.com/1/16/517066/12989031/prt_400x400_1506103949.png",
-        "project_url": "http://www.petabencana.id/"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
+        "project_url": "http://www.riskmap.org/"
       },
       "geometry": {
         "type": "Point",
@@ -228,8 +228,8 @@
         "icon": "",
         "title":"<strong>Riskmap.in</strong>",
         "description": "<p>Riskmap.in is a crowdsources flood reporting platform for Indian cities, Currently under development for the city of Chennai.</p>",
-        "image_url": "http://payload534.cargocollective.com/1/16/517066/12989031/prt_400x400_1506103949.png",
-        "project_url": "http://www.riskmap.in/"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
+        "project_url": "http://www.riskmap.org/"
       },
       "geometry": {
         "type": "Point",
@@ -245,8 +245,8 @@
         "icon": "",
         "title":"<strong>Riskmap.us</strong>",
         "description": "<p>Riskmap.US is a crowdsources flood reporting platform for Broward county Florida.</p>",
-        "image_url": "http://payload534.cargocollective.com/1/16/517066/12989031/prt_400x400_1506103949.png",
-        "project_url": "http://www.riskmap.us/"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
+        "project_url": "http://www.riskmap.org/"
       },
       "geometry": {
         "type": "Point",
@@ -262,8 +262,8 @@
         "icon": "",
         "title":"<strong>Sanriku Project</strong>",
         "description": "<p>This project involves series of design and planning workshops, conducted over the span of three years with individuals representing various local community groups impacted by the 2011 Tohoku earthquake and tsunami</p>",
-        "image_url": "http://payload282.cargocollective.com/1/16/517066/7956685/prt_400x400_1401394325.jpg",
-        "project_url": "http://www.urbanrisklab.org/filter/Sanriku-Project"
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6b07908a922da5f0559619/1533741129582/thumb.jpg?format=300w",
+        "project_url": "./work/#/sanriku-project-2013/"
       },
       "geometry": {
         "type": "Point",
