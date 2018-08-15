@@ -56,6 +56,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Data-driven Incremental Housing</strong>",
+        "description": "<strong>Digital tools for data-driven incremental housing strategies</p>",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b72e6f30ebbe8b04489e656/1534256889889/thumb.jpg?format=300w",
+        "project_url": "./work/#/digital-tools-housing//"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.5035,
+          19.1345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Risk Ecologies - Haiti Evacuation System</strong>",
         "description": "<p>This proejct takes on a comparative, qualitative, and spatial approach to the research in order to reveal and extract quantitative, geographic, urban, and social measures of current evacuation practices that tightly weave urban and ecological conditions with risk-related strategies.</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b688836aa4a994c50d12c33/1533577272227/logo.jpg?format=300w",
