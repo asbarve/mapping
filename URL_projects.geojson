@@ -93,7 +93,7 @@
         "title":"<strong>PREPHub</strong>",
         "description": "<p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b69c0792b6a28ba336b9d93/1533657210679/prt_400x400_1506104199.jpg?format=300w",
-        "project_url": "http://www.prephub.org"
+        "project_url": "./work/#/prephub/"
       },
       "geometry": {
         "type": "Point",
@@ -110,7 +110,7 @@
         "title":"<strong>PREPHub</strong>",
         "description": "<p>PREPHubs are a new kind of infrastructure designed to increase disaster resilience. Composed of flexible kit of parts, each component serves the community in both everyday and emergency scenarios</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b69c0792b6a28ba336b9d93/1533657210679/prt_400x400_1506104199.jpg?format=300w",
-        "project_url": "http://www.prephub.org"
+        "project_url": "./work/#/prephub/"
       },
       "geometry": {
         "type": "Point",
@@ -229,7 +229,7 @@
         "title":"<strong>PetaBencana.id</strong>",
         "description": "<p>PetaBencana.id harnesses the power of social media to gather, sort, and display information about flooding in real time.</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
-        "project_url": "http://www.riskmap.org/"
+        "project_url": "./work/#/riskmap/"
       },
       "geometry": {
         "type": "Point",
