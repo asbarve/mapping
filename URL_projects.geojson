@@ -22,6 +22,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Mediagua Conversion</strong>",
+        "description": "<p></p>",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b9a6466575d1f3c4748177c/1536844903082/thumb.jpg?format=300w",
+        "project_url": "./work/#/recupera-chile/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.7945, 
+          -36.1386,
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>PrepHub Nepal</strong>",
         "description": "<p>PrepHub Nepal is a proposed design innovation for the post-disaster, degraded Pati infrastructure found throughout the Kathmandu Valley. It provides infrastructure that can help improve the disaster resilience of the community, while simultaneously tackling issues of everyday life.</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b684a212b6a286b6257fbee/1533576934279/logo.jpg?format=300w",
