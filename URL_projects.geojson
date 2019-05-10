@@ -294,9 +294,26 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Riskmap.jp</strong>",
+        "description": "<p>in partnerships with Line, Riskmap.jp augments crowdsourced disaster data collection with Kumamoto's disaster managment process </p>",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
+        "project_url": "http://www.riskmap.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -130.7073,
+          32.8024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>+UV | Objects for Personal Preparedness</strong>",
         "description": "<p>Bosai + is a series of products designed to embed disaster preparedness and awareness into everyday, dual-purpose objects.</p>",
-        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/5bd8c1f7562fa78dd5db400f/5bd9efcb4ae2371b6c788719/1541009359151/UV+tag+thumb2.jpg?format=300w",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5bd9f0508a922d8290f31c7f/1541016566489/UV+tag+thumb2.jpg?format=300w",
         "project_url": "./work/#/plusuv/"
       },
       "geometry": {
