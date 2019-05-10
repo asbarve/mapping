@@ -277,6 +277,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>FluxMap: Planning for uncertainty</strong>",
+        "description": "<p>Fluxmap platform for Broward county Florida helps visualize the effects of climate change and sea level rise in broward country and help plan for adaptative stratergies.</p>",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b6849cc352f53d3816bd0ce/1533591156037/thumb.png?format=300w",
+        "project_url": "./work/#/fluxland/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1373,
+          26.1224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Riskmap.us</strong>",
         "description": "<p>Riskmap.US is a crowdsources flood reporting platform for Broward county Florida.</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
