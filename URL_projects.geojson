@@ -5,6 +5,22 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Keep Safe - Puerto Rico</strong>",
+        "description": "<p>Keep Safe - A Guide to Resilient Housing Design and Construction is a new manual for safe, resilient housing construction for Puerto Rico and other island communities </p>",
+        "image_url": "https://images.squarespace-cdn.com/content/v1/5b647b16e2ccd1199a907956/1574286787246-XIBRNPCCVHEONWI3NO8L/ke17ZwdGBToddI8pDm48kB1Q75wJAN_sPf9RbItSv3x7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UWcE2PWBZs91n53-U11KREG1uuuqs6k-u4KVLGV7ADC53L48MRpmzf-WtmnyWUEAfA/01_Page_003.jpg?format=300w",
+        "project_url": "./work/#/puertorico/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.5901,
+          18.2208
+        ]
+      }
+    },{
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Alternatives for FEMA Disaster-Related Housing Assistance</strong>",
         "description": "<p>This interdisciplinary research, supported by collaborative efforts from the various teams across MIT, explores how temporary housing can increase long-term resilience for individuals and communities by forming part of the permanent housing solution. </p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68be97aa4a99da3bc50b19/1533591193930/THUMB.jpg?format=300w",
