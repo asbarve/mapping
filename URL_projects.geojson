@@ -276,6 +276,23 @@
       "type": "Feature",
       "properties": {
         "icon": "",
+        "title":"<strong>Riskmap Thailand</strong>",
+        "description": "<p>Riskmap Thailand harnesses the power of social media to gather, sort, and display information about flooding in real time.</p>",
+        "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
+        "project_url": "./work/#/riskmap/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.5018,
+          13.7563
+        ]
+      }
+    }
+    {
+      "type": "Feature",
+      "properties": {
+        "icon": "",
         "title":"<strong>Riskmap.in</strong>",
         "description": "<p>Riskmap.in is a crowdsources flood reporting platform for Indian cities, Currently under development for the city of Chennai.</p>",
         "image_url": "https://static1.squarespace.com/static/5b647b16e2ccd1199a907956/t/5b68880e575d1f10d47e4d55/1533577234027/thumb.png?format=300w",
